@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "cmath": "cpp",
+        "array": "cpp",
+        "any": "cpp",
+        "string_view": "cpp",
+        "ranges": "cpp",
+        "span": "cpp",
+        "regex": "cpp",
+        "iosfwd": "cpp",
+        "chrono": "cpp"
+    }
+}
